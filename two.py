@@ -1,3 +1,4 @@
+#to find the greatest of two numbers
 a=int(input())
 b=int(input())
 if a>b:
